@@ -14,4 +14,4 @@ Lastly, make sure to downlaod this pre-trained word embeddings algortihm called 
 
 https://goo.gl/qzcTuY
 
-
+If you are loading in data through an excel file, make sure the excel file is in the same Folder as the code
